@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Less Amateur</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://redstarence.github.io/LessAmateur.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://redstarence.github.io/LessAmateur.github.io/"/>
   <updated>2023-11-21T09:39:13.236Z</updated>
-  <id>http://example.com/</id>
+  <id>https://redstarence.github.io/LessAmateur.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Less Amateur</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>卡拉瓦乔</title>
-    <link href="http://example.com/2023/11/21/%E5%8D%A1%E6%8B%89%E7%93%A6%E4%B9%94/"/>
-    <id>http://example.com/2023/11/21/%E5%8D%A1%E6%8B%89%E7%93%A6%E4%B9%94/</id>
+    <link href="https://redstarence.github.io/LessAmateur.github.io/2023/11/21/%E5%8D%A1%E6%8B%89%E7%93%A6%E4%B9%94/"/>
+    <id>https://redstarence.github.io/LessAmateur.github.io/2023/11/21/%E5%8D%A1%E6%8B%89%E7%93%A6%E4%B9%94/</id>
     <published>2023-11-21T09:32:17.000Z</published>
     <updated>2023-11-21T09:39:13.236Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>mynew</title>
-    <link href="http://example.com/2023/11/21/mynew/"/>
-    <id>http://example.com/2023/11/21/mynew/</id>
+    <link href="https://redstarence.github.io/LessAmateur.github.io/2023/11/21/mynew/"/>
+    <id>https://redstarence.github.io/LessAmateur.github.io/2023/11/21/mynew/</id>
     <published>2023-11-21T08:00:00.000Z</published>
     <updated>2023-11-21T08:00:00.785Z</updated>
     
@@ -52,8 +52,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/11/20/hello-world/"/>
-    <id>http://example.com/2023/11/20/hello-world/</id>
+    <link href="https://redstarence.github.io/LessAmateur.github.io/2023/11/20/hello-world/"/>
+    <id>https://redstarence.github.io/LessAmateur.github.io/2023/11/20/hello-world/</id>
     <published>2023-11-20T06:29:59.563Z</published>
     <updated>2023-11-20T06:29:59.564Z</updated>
     
